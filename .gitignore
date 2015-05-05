@@ -3,3 +3,8 @@
 Gemfile.lock
 pkg/*
 doc/
+
+#Ignore Kate Project files
+.kateproject
+.kateproject.d
+*.kate-swp
